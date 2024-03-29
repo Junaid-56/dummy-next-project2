@@ -1,5 +1,3 @@
 export default function Home() {
-  return (
-    <div>hello friends my name is junaid this is my first NEXT.js project</div>
-  );
+  return <div>My name is junaid and this is my first NEXT.js project</div>;
 }
